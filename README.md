@@ -1,4 +1,4 @@
-# 计算与推断思维 中文版
+# UCB Data8 计算与推断思维
 
 > 原书：[data-8/textbook](https://github.com/data-8/textbook/)
 > 
