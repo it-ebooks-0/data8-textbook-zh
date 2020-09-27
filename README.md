@@ -22,6 +22,16 @@
 + [代码仓库](https://github.com/apachecn/data8-textbook-zh)
 
 
+## 下载
+
+### NPM
+
+```
+npm install -g data8-textbook-zh
+data8-textbook-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我
 
 ![](img/qr_alipay.png)
