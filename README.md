@@ -16,6 +16,7 @@
 <!-- break -->
 
 + [在线阅读](https://data8.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/data8-textbook-zh/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/data8-textbook)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/data8-textbook)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/data8-textbook)
